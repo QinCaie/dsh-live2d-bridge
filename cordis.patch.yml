@@ -1,0 +1,4 @@
+# dsh-live2d-bridge bundle layer: mount the live2d bridge plugin row.
+- insert:
+    - id: live2d-bridge
+      name: 'dsh-live2d-bridge'
